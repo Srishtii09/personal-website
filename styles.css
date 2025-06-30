@@ -1,0 +1,187 @@
+/*div{
+    background-color:rgb(244, 239, 239); 
+   position: relative;      
+    padding-top: 100px;
+}*/
+.top-con
+{
+    background-color: rgb(27, 2, 2);
+    position: relative;
+    padding-top: 100px;
+
+}
+body{
+    margin: 0;    
+    text-align: center;  
+     font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
+  font-style: normal;  
+  background-color:rgb(7, 1, 1);
+
+}
+h1{
+    color:red;
+    margin-top:50px auto 0 auto;  
+  font-size: 66px;
+
+}
+h2{
+    color:red ;
+    font-weight: normal;
+    padding-bottom:10px ;
+
+}
+h3{
+    color: red;
+}
+p{
+    color: white;
+    margin-top: 0;  
+  font-size: 33px;
+  font-family: "Dancing Script", cursive;
+  font-optical-sizing: auto;
+}
+hr{
+    
+    border: dotted #EAF6F6 6px;
+    border-bottom: none;
+    width: 4%;
+    margin:100px auto;
+}
+
+
+    /*font-style: italic;  
+    
+    /***if you want to center allign the heading withoutbeing inline 
+    h1
+    {
+    width:10%;
+    margin:0 auto 0 auto;
+    ********/
+.middle-section{
+    margin:100px 0 ;
+}
+p{
+    line-height: 2;
+}
+.hh{
+    height: 150px;
+    width: 150px;
+    position:absolute;
+}
+
+.three{
+ height: 550px;
+    width: 550px;
+    position: relative;
+
+}
+.top-star{
+     height: 150px;
+    width: 150px;
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+.bottom-star{
+     height: 150px;
+    width: 150px;
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+} 
+.para{
+    font-weight: normal;
+}
+.skill-row
+{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height:2;
+}
+
+.code{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+.computer{ 
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+
+}
+.intro{
+    width: 65%;
+    margin: auto;
+
+}
+.contact-me{
+    width: 50%;
+    margin: 40px auto 60px ;
+}
+
+.anime{
+    width:25%;
+}
+.btn {
+   background: #F1743E;
+   background-image: -webkit-linear-gradient(top, #F1743E, #481D0C);
+   background-image: -moz-linear-gradient(top, #F1743E, #481D0C);
+   background-image: -ms-linear-gradient(top, #F1743E, #481D0C);
+   background-image: -o-linear-gradient(top, #F1743E, #481D0C);
+   background-image: -webkit-gradient(to bottom, #F1743E, #481D0C);
+   -webkit-border-radius: 8px;
+   -moz-border-radius: 8px;
+   border-radius: 8px;
+   height: 50px;
+   line-height: 50px;
+   color: #FFFFFF;
+   font-family: Arial;
+   width: 200px;
+   font-size: 40px;
+   font-weight: 100;
+   padding: 40px;
+   -webkit-box-shadow: 2px 1px 20px 0 #000000;
+   -moz-box-shadow: 2px 1px 20px 0 #000000;
+   box-shadow: 2px 1px 20px 0 #000000;
+   text-shadow: 1px 1px 20px #000000;
+   border: solid #337FED 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.btn:hover {
+   border: solid #DD380D 1px;
+   background: #F13A13;
+   background-image: -webkit-linear-gradient(top, #F13A13, #EA501C);
+   background-image: -moz-linear-gradient(top, #F13A13, #EA501C);
+   background-image: -ms-linear-gradient(top, #F13A13, #EA501C);
+   background-image: -o-linear-gradient(top, #F13A13, #EA501C);
+   background-image: -webkit-gradient(to bottom, #F13A13, #EA501C);
+   -webkit-border-radius: 36px;
+   -moz-border-radius: 36px;
+   border-radius: 36px;
+   text-decoration: none;
+}
+.bottom-section{
+    background-color:rgb(27, 2, 2);
+    padding: 50px 0 20px;
+}
+a{
+    color: #9a4b4d;
+    font-family: "Bebas Neue", sans-serif;
+    margin: 10px 20px;
+    text-decoration:none;
+}
+a:hover{
+    color: black;
+}
+.copywrite{
+    color: rgb(115, 117, 237);
+    font-size: 0.75rem;
+    padding : 20px 0;
+}
